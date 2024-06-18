@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: submenus Changed to indicate this is working
 nav: true
 nav_order: 8
 dropdown: true
